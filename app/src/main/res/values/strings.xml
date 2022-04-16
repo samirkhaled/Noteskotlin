@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string-array name="colors">
+        <item>#FFAB91</item>
+        <item>#FFAB91</item>
+        <item>#E6EE9B</item>
+        <item>#80DEEA</item>
+        <item>#CF93D9</item>
+        <item>#F48FB1</item>
+        <item>#F48FB1</item>
+        <item>#80CBC4</item>
+    </string-array>
+
+</resources>
